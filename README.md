@@ -4,6 +4,9 @@
 
 - docker
 - docker-compose
+- Jack Daemon (jackd): https://jackaudio.org/downloads/
+## Additional
+- Editor with TidalCycles Plugin like Atom or Emacs 
 
 ## Usage
 
